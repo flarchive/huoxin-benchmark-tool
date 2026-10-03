@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of huoxin/benchmark-tool.** Not for installation: use [Packagist](https://packagist.org/packages/huoxin/benchmark-tool) or the [upstream repository](https://github.com/huoxin233/flarum-ext-benchmark-tool).
 
-**0** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/huoxin-benchmark-tool/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0.0-beta`
+**5** versions archived · Latest: [`2.0.1`](https://github.com/flarchive/huoxin-benchmark-tool/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-07-12 | `^1.2.0 || ^2.0.0` | [Browse](https://github.com/flarchive/huoxin-benchmark-tool/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-07-12 | `^1.2.0` | [Browse](https://github.com/flarchive/huoxin-benchmark-tool/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-07-14 | `^1.2.0` | [Browse](https://github.com/flarchive/huoxin-benchmark-tool/tree/archive/v1.0.2) |
+| `2.0.0` | 2026-07-12 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/huoxin-benchmark-tool/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-07-14 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/huoxin-benchmark-tool/tree/archive/v2.0.1) |
 
 Catalog entry: [packages/huoxin-benchmark-tool.json](https://github.com/flarchive/archive-index/blob/main/packages/huoxin-benchmark-tool.json)
 
